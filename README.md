@@ -1,2 +1,18 @@
-# Covid-Data-Exploration-Portfolio-Project
-SQL Data Exploration project using Covid-19 data
+# COVID-19 Data Exploration Project
+
+## Project Overview
+This project focuses on exploring global COVID-19 data using SQL. The data includes metrics on infections, deaths, and vaccinations across different continents and countries over a specific timeline.
+
+##Data Sources
+- **CovidDeaths.csv.** (Infections and morality metrics)
+- **CovidVaccinations.csv** (Vaccination progress tracking metrics)
+- *Source: Our World in Data*
+
+- ##Skills & Concepts Demonstrated
+- **Data Transformations:** Handled messy data types using 'TRY CAST'.
+- **Aggregations:** Calculated global numbers, death percentages, and peak infection rates.
+- **Joins:** Combined death metrics and vaccination trackingmetrics.
+- **Advanced SQL:** Implemented windows Functions ('PARTITION BY'), Common Table Expressions (CTEs), Temp Tables, and Database Views for data virtualization.
+
+- ##Project Structure
+- -'Alex_Project_1_SQL_Exploration.sql': The primary script containing all data exploration queries. 
