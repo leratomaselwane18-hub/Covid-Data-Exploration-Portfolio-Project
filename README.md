@@ -15,4 +15,10 @@ This project focuses on exploring global COVID-19 data using SQL. The data inclu
 - **Advanced SQL:** Implemented windows Functions ('PARTITION BY'), Common Table Expressions (CTEs), Temp Tables, and Database Views for data virtualization.
 
 - ##Project Structure
-- -'Alex_Project_1_SQL_Exploration.sql': The primary script containing all data exploration queries. 
+- -'Alex_Project_1_SQL_Exploration.sql': The primary script containing all data exploration queries.
+
+- ## Tableau Dashboard Phase (In Progress)
+- Successfully extracted 4 processed core datasets from SQL Server into standardized reporting layers.
+- Constructed a customized dynamic bar chart analyzing localized total mortality metrics across major continents.
+- Generated an automated global choropleth map virtualization tracking infection rates across world borders.
+
