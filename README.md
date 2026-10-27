@@ -28,7 +28,7 @@ This project focuses on exploring global COVID-19 data using SQL. The data inclu
 
 ---
 
-## 🎨 Tableau Dashboard Phase (In Progress)
+## 🎨 Tableau Dashboard Phase 
 * Successfully extracted 4 processed core datasets from SQL Server into standardized reporting layers.
 * Constructed a customized dynamic bar chart analyzing localized total mortality metrics across major continents.
 * Generated an automated global choropleth map virtualization tracking infection rates across world borders.
