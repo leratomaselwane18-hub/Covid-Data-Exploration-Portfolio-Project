@@ -1,16 +1,13 @@
 -- 1. Total Cases vs Total Deaths (Death Percentage in the US)
 SELECT
-dea.location,
-dea.date,
-dea.total_cases,
-dea.total_deaths,
-(CAST(dea.total_deaths AS float) / NULLIF(CAST(vac.population AS float), 0)) * 100 AS DeathPercentage
-FROM PortfolioProject..CovidDeaths dea
-JOIN PortfolioProject..Covidvaccinations_fixed vac
-ON dea.location = vac.location
-AND dea.date = vac.date
-WHERE dea.location LIKE '%states%'
-ORDER BY 1, 2;
+SUM(cast(new_cases as float)) as total_cases,
+SUM(cast(new_deaths as int)) as total_deaths,
+SUM(cast(new_deaths as int))/SUM(cast(new_cases as float))*100 as DeathPercentage
+FROM
+PortfolioProject..CovidDeaths
+WHERE
+continent is not null
+ORDER BY 1,2;
 
 
 -- 2. Total Cases vs Population (Infection Percentage)
