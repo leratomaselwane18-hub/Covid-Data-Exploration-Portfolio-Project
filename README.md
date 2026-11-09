@@ -36,3 +36,9 @@ This project focuses on exploring global COVID-19 data using SQL. The data inclu
 ### Tableau Visualisation: Total Infection by Country
 <img width="4032" height="2653" alt="Tableau_visualisation jpg" src="https://github.com/user-attachments/assets/da1fd28d-7e86-44c6-a08e-4ebd5c569034" />
 
+### Tableau Visualisation: Total Death per Continent
+<img width="3687" height="2961" alt="IMG_0399 (1)" src="https://github.com/user-attachments/assets/94b6a977-32bc-45f8-972c-d8a692c9b804" />
+
+
+
+
