@@ -23,7 +23,7 @@ This project focuses on exploring global COVID-19 data using SQL. The data inclu
 ---
 
 ## 📁 Project Structure
-* `lerato portfolio project #1.sql`: The primary script containing all data exploration queries.
+* [lerato portfolio project #1.sql](lerato%20portfolio%20project%20%231.sql): The primary script containing all data exploration queries.
 * `README.md`: Project documentation and setup guidelines.
 
 ---
