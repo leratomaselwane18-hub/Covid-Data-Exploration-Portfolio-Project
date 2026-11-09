@@ -34,4 +34,5 @@ This project focuses on exploring global COVID-19 data using SQL. The data inclu
 * Generated an automated global choropleth map virtualization tracking infection rates across world borders.
   
 ### Tableau Visualisation: Total Deaths per Continent
-![Tableau Visualisation](Tableau_Visualisation.jpg.jpeg)
+<img width="4032" height="2653" alt="Tableau_visualisation jpg" src="https://github.com/user-attachments/assets/da1fd28d-7e86-44c6-a08e-4ebd5c569034" />
+
