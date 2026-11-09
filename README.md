@@ -33,6 +33,6 @@ This project focuses on exploring global COVID-19 data using SQL. The data inclu
 * Constructed a customized dynamic bar chart analyzing localized total mortality metrics across major continents.
 * Generated an automated global choropleth map virtualization tracking infection rates across world borders.
   
-### Tableau Visualisation: Total Deaths per Continent
+### Tableau Visualisation: Total Infection by Country
 <img width="4032" height="2653" alt="Tableau_visualisation jpg" src="https://github.com/user-attachments/assets/da1fd28d-7e86-44c6-a08e-4ebd5c569034" />
 
